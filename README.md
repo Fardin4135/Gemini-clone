@@ -1,3 +1,40 @@
+#Gemini Clone - AI Chatbot using React
+🌟 Overview
+
+Welcome to Gemini Clone, an AI-powered chatbot built using React.js. This project integrates the Gemini API to provide real-time AI responses. It features:
+
+State Management: useState, useContext
+
+API Integration: Gemini API for AI-generated responses
+
+Responsiveness: Optimized for all devices (mobile, tablet, desktop)
+
+Recent Prompts: Users can view their previous interactions
+
+🚀 Features
+
+✅ Real-time AI-generated responses using Gemini API
+✅ State Management with useState and useContext
+✅ Responsive UI for all screen sizes
+✅ Recent Prompts history to track past interactions
+✅ Modern UI with smooth animations
+
+🛠️ Tech Stack
+
+React.js (Frontend)
+
+useState & useContext (State Management)
+
+Gemini API (AI-powered responses)
+
+Local Storage (Recent prompts tracking)
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
